@@ -1,4 +1,4 @@
-# Laser-Induced Acoustic Injection (Software Module)
+# Laser-Induced Acoustic Injection
 
 This repository contains the **software component** of the system described in:
 
